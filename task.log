@@ -1,0 +1,32 @@
+INFO: 02/20/2022 06:34:35 PM  database and collection Successfully created!
+INFO: 02/20/2022 06:35:24 PM Trying to convert the data/carbon_nanotubes.csv file into a Mongo insertion list!
+INFO: 02/20/2022 06:35:24 PM data/carbon_nanotubes.csv is opened successfully.	 Start converting....
+INFO: 02/20/2022 06:35:24 PM File data/carbon_nanotubes.csv is closed and converted successfully.
+INFO: 02/20/2022 06:35:33 PM The complete CSV file (data/carbon_nanotubes.csv) is insterted successfully!
+INFO: 02/20/2022 06:37:11 PM Collection:'carbon_Data' in Database:'carbon_NT' exists
+INFO: 02/20/2022 06:37:11 PM Documents are updated successfully in the  collection!
+INFO: 02/20/2022 06:38:16 PM Collection:'carbon_Data' in Database:'carbon_NT' exists
+INFO: 02/20/2022 06:38:16 PM Records are deleted successfully from collectino!
+INFO: 02/20/2022 06:39:46 PM The whole data is insterted successfully into collection!
+INFO: 02/20/2022 06:40:28 PM One document is insterted successfully into collection!
+INFO: 02/20/2022 06:41:14 PM Collection:'carbon_Data' in Database:'carbon_NT' exists
+INFO: 02/20/2022 06:41:14 PM Ooops! The Collection is droped competely!
+INFO: 02/20/2022 06:44:01 PM  database and collection Successfully created!
+INFO: 02/20/2022 06:44:26 PM Trying to convert the data/carbon_nanotubes.csv file into a Mongo insertion list!
+INFO: 02/20/2022 06:44:26 PM data/carbon_nanotubes.csv is opened successfully.	 Start converting....
+INFO: 02/20/2022 06:44:26 PM File data/carbon_nanotubes.csv is closed and converted successfully.
+INFO: 02/20/2022 06:44:30 PM The complete CSV file (data/carbon_nanotubes.csv) is insterted successfully!
+INFO: 02/20/2022 06:44:35 PM Trying to convert the data/carbon_nanotube1s.csv file into a Mongo insertion list!
+ERROR: 02/20/2022 06:44:35 PM An exception error has occurred! Details: [Errno 2] No such file or directory: 'data/carbon_nanotube1s.csv'
+WARNING: 02/20/2022 06:44:35 PM Convertion process is stopped!
+ERROR: 02/20/2022 06:44:35 PM ERROR: local variable 'f' referenced before assignment
+INFO: 02/20/2022 06:44:40 PM Trying to convert the data/carbon_nanotubes.csv file into a Mongo insertion list!
+INFO: 02/20/2022 06:44:40 PM data/carbon_nanotubes.csv is opened successfully.	 Start converting....
+INFO: 02/20/2022 06:44:40 PM File data/carbon_nanotubes.csv is closed and converted successfully.
+INFO: 02/20/2022 06:44:43 PM The complete CSV file (data/carbon_nanotubes.csv) is insterted successfully!
+INFO: 02/20/2022 06:44:56 PM Collection:'carbon_Data' in Database:'carbon_NT' exists
+INFO: 02/20/2022 06:44:56 PM Ooops! The Collection is droped competely!
+INFO: 02/20/2022 06:45:25 PM Trying to convert the data/carbon_nanotubes.csv file into a Mongo insertion list!
+INFO: 02/20/2022 06:45:25 PM data/carbon_nanotubes.csv is opened successfully.	 Start converting....
+INFO: 02/20/2022 06:45:25 PM File data/carbon_nanotubes.csv is closed and converted successfully.
+INFO: 02/20/2022 06:45:28 PM The complete CSV file (data/carbon_nanotubes.csv) is insterted successfully!
